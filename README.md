@@ -2,10 +2,10 @@
 
 Deployed on Vercel Live URL: [https://min-journey-ai-image-dall-e.vercel.app/]
 
-1. [Karan Kamble 504](#description)
-2. [Hritik Rayapati 082](#installation)
-3. [Gaurik Bansal 067](#usage)
-4. [Tejas Lahade 505](#contributing)
+1. [Karan Kamble 504]
+2. [Hritik Rayapati 082]
+3. [Gaurik Bansal 067]
+4. [Tejas Lahade 505]
 
 ![App Screenshots](./client/src/assets/minJourney_1.jpeg)
 ![App Screenshots](./client/src/assets/minJourney_2.jpg)
